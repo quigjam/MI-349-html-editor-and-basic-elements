@@ -1,0 +1,27 @@
+        
+body{
+
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%; 
+
+    border-style: solid;
+
+}
+
+p.solid {
+                
+    
+    border-style: solid;
+   
+    
+}
+
+.headshot_text{
+
+
+    text-align: right;
+    vertical-align: text-top;
+
+
+}
